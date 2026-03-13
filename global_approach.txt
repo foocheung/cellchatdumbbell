@@ -1,0 +1,4 @@
+Combined interferon family (all IFN pathways pooled)
+Step 1) Pool LE genes across all IFN pathways within each cell type / subpopulation Compute a frequency per gene: “in how many non-immune subpops is this gene in the LE?
+Step 2) Define robust genes as those above a threshold (e.g., present in ≥30–50% of CD45− subpops)
+Step 3) Compare that robust set against CD45+ the same way (ideally show overlap + what’s unique)

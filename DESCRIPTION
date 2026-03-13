@@ -1,0 +1,25 @@
+Package: cellchatdumbbell
+Title: CellChat Crosstalk Analysis - Dumbbell Plots
+Version: 0.1.0
+Authors@R: 
+    person("Your", "Name", , "your.email@example.com", role = c("cre", "aut"))
+Description: A Shiny application for analyzing CellChat communication data
+    using dumbbell plots to visualize ligand-receptor interactions between
+    cell types across conditions.
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.1),
+    dplyr,
+    DT,
+    ggplot2,
+    golem (>= 0.3.1),
+    magrittr,
+    patchwork,
+    rlang,
+    shiny (>= 1.7.1),
+    shinycssloaders,
+    stringr,
+    tidyr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
